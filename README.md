@@ -12,7 +12,7 @@ Guía de instalación y uso de **NetBeans** para el proyecto de DAM1 M5 del inst
      - [ ] Cómo depurar código
      - [ ] Explicación manera de controlar la ejecución (_breakpoint_, paso a paso, volver a la función anterior, etc.)
      - [ ] Cómo evaluar una expresión en mitad de una depuración     
-- [ ] Definir estilos
+- [ ] Definir estilos [Jonathan]
      - [ ] Explicar qué es un _linter_
      - [ ] Mostar instalación de un _linter_
      - [ ] Explicar cómo aplicar un _linter_ y cómo definir un estilo

@@ -3,11 +3,11 @@ Guía de instalación y uso de **NetBeans** para el proyecto de DAM1 M5 del inst
 
 # Estado
 - [x] Instalación
-- [ ] Infomación básica sobre cómo comenzar un proyecto
+- [x] Infomación básica sobre cómo comenzar un proyecto
      - [ ] Para Python y Java
      - [x] Cómo crear un proyecto 
-     - [ ] Cómo ejectuar un proyecto
-     - [ ] Cómo compilar un proyecto
+     - [x] Cómo ejectuar un proyecto
+     - [x] Cómo compilar un proyecto
 - [ ] Depuración de código
      - [ ] Cómo depurar código
      - [ ] Explicación manera de controlar la ejecución (_breakpoint_, paso a paso, volver a la función anterior, etc.)

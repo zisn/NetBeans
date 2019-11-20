@@ -23,3 +23,7 @@ Guía de instalación y uso de **NetBeans** para el proyecto de DAM1 M5 del inst
 -> https://netbeans.org/kb/docs/java/editor-codereference.html
      
 
+
+Tools > Options > Font & Colors
+
+Tols > Options > Import...

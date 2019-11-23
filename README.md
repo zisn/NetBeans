@@ -8,10 +8,10 @@ Guía de instalación y uso de **NetBeans** para el proyecto de DAM1 M5 del inst
      - [x] Cómo crear un proyecto 
      - [x] Cómo ejectuar un proyecto
      - [x] Cómo compilar un proyecto
-- [ ] Depuración de código
-     - [ ] Cómo depurar código
-     - [ ] Explicación manera de controlar la ejecución (_breakpoint_, paso a paso, volver a la función anterior, etc.)
-     - [ ] Cómo evaluar una expresión en mitad de una depuración     
+- [x] Depuración de código
+     - [x] Cómo depurar código
+     - [x] Explicación manera de controlar la ejecución (_breakpoint_, paso a paso, volver a la función anterior, etc.)
+     - [x] Cómo evaluar una expresión en mitad de una depuración     
 - [ ] Definir estilos [Jonathan]
      - [ ] Explicar qué es un _linter_
      - [ ] Mostrar instalación de un _linter_

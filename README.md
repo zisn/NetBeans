@@ -21,7 +21,7 @@ Guía de instalación y uso de **NetBeans** para el proyecto de DAM1 M5 del inst
      - [x] Explicar cómo aplicar un _linter_ y cómo definir un estilo
 - [ ] Enlazar IDE a un controlador de versiones (Explicación en la UF2)
 
--> https://github.com/collections/clean-code-linters
-
--> https://netbeans.org/kb/docs/java/editor-codereference.html
+Enlaces de interés:
+- https://github.com/collections/clean-code-linters
+- https://netbeans.org/kb/docs/java/editor-codereference.html
    

@@ -25,3 +25,6 @@ Enlaces de interés:
 - https://github.com/collections/clean-code-linters
 - https://netbeans.org/kb/docs/java/editor-codereference.html
    
+   
+       ${cursor} defines the location of the cursor after you finish editing all automatically selected values in the expanded template.
+    ${selection} defines a position for pasting the content of the editor selection. This is used by so-called 'selection templates' that appear as hints whenever the user selects text in the editor. If a template includes ${selection}, it usually refers to the same location as ${cursor}.
